@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Time Fades Away",
+  "base_artist": "Two Feet",
+  "createdAt": "2025-12-01T02:25:56.519519Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "About Damn Time",
+      "artist": "Lizzo",
+      "has_synced": true,
+      "path": "select/01_About_Damn_Time_Lizzo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GOOD TIME",
+      "artist": "Niko Moon",
+      "has_synced": true,
+      "path": "select/02_GOOD_TIME_Niko_Moon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GOOD TIME",
+      "artist": "Niko Moon",
+      "has_synced": true,
+      "path": "select/03_GOOD_TIME_Niko_Moon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Like It's The Last Time",
+      "artist": "Thomas Rhett",
+      "has_synced": false,
+      "path": "select/04_Like_It's_The_Last_Time_Thomas_Rhett.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Like It's The Last Time",
+      "artist": "Thomas Rhett",
+      "has_synced": false,
+      "path": "select/05_Like_It's_The_Last_Time_Thomas_Rhett.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "More Time Fishin'",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/06_More_Time_Fishin'_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Part-Time Lover",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/07_Part-Time_Lover_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Quittin' Time",
+      "artist": "Zach Bryan",
+      "has_synced": true,
+      "path": "select/08_Quittin'_Time_Zach_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Quittin' Time",
+      "artist": "Zach Bryan",
+      "has_synced": true,
+      "path": "select/09_Quittin'_Time_Zach_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Save Me the Time",
+      "artist": "Cannibal Kids",
+      "has_synced": true,
+      "path": "select/10_Save_Me_the_Time_Cannibal_Kids.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Save Me the Time",
+      "artist": "Cannibal Kids",
+      "has_synced": true,
+      "path": "select/11_Save_Me_the_Time_Cannibal_Kids.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Time After Time",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/12_Time_After_Time_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Time Well Spent",
+      "artist": "LVTHER feat. Ayelle",
+      "has_synced": true,
+      "path": "select/13_Time_Well_Spent_LVTHER_feat._Ayelle.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Time Well Spent",
+      "artist": "LVTHER, Ayelle",
+      "has_synced": true,
+      "path": "select/14_Time_Well_Spent_LVTHER,_Ayelle.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Time=$$$",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/15_Time=$$$_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Time=Fate",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/16_Time=Fate_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Work This Time",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/17_Work_This_Time_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Work This Time",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/18_Work_This_Time_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Now Is Not The Time",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/19_Now_Is_Not_The_Time_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Now Is Not the Time",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/20_Now_Is_Not_the_Time_CHVRCHES.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "Time Fades Away",
+      "artist": "Two Feet",
+      "has_synced": false,
+      "path": "select/pl_Time_Fades_Away_Two_Feet.txt"
+    }
+  ]
+}
